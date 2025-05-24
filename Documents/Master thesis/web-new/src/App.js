@@ -1,13 +1,12 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import './App.css';
-import DistributorTable from "./DistributorTable";
+import DistributorBoard from './DistributorBoard';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>TrackDevX</h1>
-        <DistributorTable/>
+        <DistributorBoard />
       </div>
     );
   }
