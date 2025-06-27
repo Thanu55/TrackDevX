@@ -1,1 +1,6 @@
-TrackDevX is a modern, browser-based platform designed to enhance supply chain visibility through predictive analytics and real-time dashboards. It supports decision-making by visualizing key logistics metrics like past, current, and forecasted shipments. Developed for dynamic global supply chains, it integrates seamlessly with workflows using a robust system architecture and agile methodology. Future-ready, TrackDevX is built for extensibility with planned machine learning and data visualization enhancements.
+## 🔍 Project Highlights
+
+- 🛠️ Built a responsive React-based task management dashboard to track DevOps and development workflows.
+- 🧩 Implemented dynamic task columns with add/delete functionality, interactive modals, and clean UX using Material UI.
+- ⚛️ Utilized React hooks and component-based architecture to manage state and enable real-time UI updates.
+- 📦 Structured scalable, reusable components suitable for team-based project tracking or workflow visualization.
